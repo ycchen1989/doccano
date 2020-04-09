@@ -1,8 +1,8 @@
 <template>
   <v-content>
-    <the-top-banner />
+    <!-- <the-top-banner /> -->
     <!-- <feature-cards /> -->
-    <the-bottom-banner />
+    <!-- <the-bottom-banner /> -->
   </v-content>
 </template>
 
