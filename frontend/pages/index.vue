@@ -1,7 +1,7 @@
 <template>
   <v-content>
     <the-top-banner />
-    <feature-cards />
+    <!-- <feature-cards /> -->
     <the-bottom-banner />
   </v-content>
 </template>
